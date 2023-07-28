@@ -1,0 +1,21 @@
+.terms-privacy {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.h2-size{
+font-size: 30px;
+}
+
+.terms-section{
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+  }
+
+p {
+    margin-bottom: 20px !important;
+}
